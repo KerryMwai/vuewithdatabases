@@ -1,0 +1,12 @@
+{
+    "jobs":[
+        {"title":"Designing", "id":1, "details":"Html Css Designs"},
+        {"title":"Developing", "id":2, "details":"Html Css Developement"},
+        {"title":"Software Quality Assuarance", "id":3, "details":"Quality Assuarance"},
+        {"title":"Testing", "id":4, "details":"Unit Testing"},
+        {"title":"Integration", "id":5, "details":"Integrating the modules"},
+        {"title":"Prototyping", "id":6, "details":"Creating mock designs for testing"},
+        {"title":"Analysis", "id":7, "details":"Analysing information collected"}
+    ]
+    
+}
